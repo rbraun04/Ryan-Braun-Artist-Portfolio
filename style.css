@@ -10,7 +10,7 @@ a {
     padding: .25rem .75rem;
     font-size: 1.25rem;
     line-height: 1;
-    background-color: transparent;
+    background-color: rgb(78, 49, 78);
     border: rgb(183, 174, 174);
     top: 0;
     right: 0;
@@ -84,12 +84,20 @@ body, html {
 
 .card-text {
     color: white;
-    letter-spacing: 10px;
+    letter-spacing: 6px;
     font: 400 12px/1.8 "Lato", sans-serif;
     text-align:center;
-    background-color: rgba(59, 40, 40, 0.7);
+    background-color: rgba(74, 67, 122, 0.7);
 }
 
+.repository {
+    color: white;
+    letter-spacing: 2px;
+    font: 400 10px/1.8 "Lato", sans-serif;
+    text-align:center;
+    background-color: rgba(59, 40, 40, 0.7);
+
+}
 
 
 .contact {
