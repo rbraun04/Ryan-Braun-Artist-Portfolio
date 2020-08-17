@@ -87,6 +87,7 @@ body, html {
     letter-spacing: 10px;
     font: 400 12px/1.8 "Lato", sans-serif;
     text-align:center;
+    background-color: rgba(59, 40, 40, 0.7);
 }
 
 
@@ -104,14 +105,7 @@ body, html {
 }
 
 
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
+
 
 
 
