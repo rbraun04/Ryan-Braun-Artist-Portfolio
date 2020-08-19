@@ -37,7 +37,7 @@ link to deployed website:  https://rbraun04.github.io/Ryan-Braun-Artist-Portfoli
                         
  ## Questions
  
-                        Feel free to contact me via Gifthub or by my e-mail!
+            Feel free to contact me via Gifthub or by my e-mail!
 Github Username:  rbraun04
 
  <a href = "https://github.com/rbraun04">GitHub</a> - Click to go to my profile!
