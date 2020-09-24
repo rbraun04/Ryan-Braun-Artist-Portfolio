@@ -1,6 +1,8 @@
 # Ryan Braun Portfolio
 
 ***This portfolio page needs to be reformatted to include new work.  The portfolio page needs to be redesigned, animations need to be added, background vidoes, etc.***
+
+<img src = "ReadMePicture.png">
 <img src = "FrontPagePortfolio.png">
 <img src ="PortfolioPage.png">
 
